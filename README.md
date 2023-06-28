@@ -18,7 +18,7 @@ ii) ListenerHelper - uses ITestListener - which helps in creating the report as 
 iii) PropertyReaderHelper - helps to read the global config file
 
 3) Base package is used which has the following classes - 
-i) SetupDriver - This helps to different drivers like chrome.firefox and edge which will trigger using the browserType key.
+i) SetupDriver - This helps different drivers like chrome.firefox and edge which will trigger using the browserType key.
 ii) CustomWaits - Converted thread.sleep into an easy-to-use function (can be used similarly for Explicit and Implicit wait)
 iii) Commons - This is used to set up the Json data file for test scenarios
 
